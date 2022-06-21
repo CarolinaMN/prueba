@@ -5,7 +5,7 @@ from juego import Ahorcado
  
 class TestCuboid(unittest.TestCase):
     '''
-        Test comprueba si el resultado es el esperado
+        Test comprueba si e   l resultado es el esperado 
     '''
     
     def setUp(self):
